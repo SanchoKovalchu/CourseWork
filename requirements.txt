@@ -1,0 +1,11 @@
+nicegui
+pywin32
+pycairo
+pypdf
+langchain
+chromadb
+pytest
+reportlab
+boto3
+langchain_community
+langchain_text_splitters
